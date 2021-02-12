@@ -35,7 +35,7 @@ Hello,
   <img align="left" alt="Lucas's Reddit" title="Reddit" width="36px" src="https://raw.githubusercontent.com/XCraftMan52/XCraftMan52/master/img/reddit.svg" />
 </a>
 <a href="https://lucaswebber.net/youtube">
-  <img align="left" alt="Lucas's Youtube" title="Youtube" width="36px" src="https://raw.githubusercontent.com/vXCraftMan52/XCraftMan52/master/img/youtube.svg" />
+  <img align="left" alt="Lucas's Youtube" title="Youtube" width="36px" src="https://raw.githubusercontent.com/XCraftMan52/XCraftMan52/master/img/youtube.svg" />
 </a>
 <a href="https://www.pinterest.com/lucaswebber_24/">
   <img align="left" alt="Lucas's Pinterest" title="Pinterest" width="36px" src="https://raw.githubusercontent.com/XCraftMan52/XCraftMan52/master/img/pinterest.svg" />
@@ -49,7 +49,7 @@ Hello,
 
   <section>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=XCraftMan52&show_icons=true&theme=radical&layout=compact&count_private=true">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCraftMan52&show_icons=true&theme=radical&layout=compact&count_private=true" alt="vishnukumar650's Most Used Languages" >
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCraftMan52&show_icons=true&theme=radical&layout=compact&count_private=true" alt="XCraftMan52's Most Used Languages" >
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=xcraftman52&show_icons=true&theme=radical&layout=compact&count_private=true">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=xcraftman52&show_icons=true&theme=radical&layout=compact&count_private=true" alt="XCraftMan52's Github Stats" >
