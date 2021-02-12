@@ -1,42 +1,63 @@
-### Hi there, I'm Lucas - aka [XCraftMan52][website] 👋
+<p align="center"> <img src="https://raw.githubusercontent.com/XCraftMan52/XCraftMan52/master/img/hello.gif" alt="hello" /> </p>
 
-[![Website](https://img.shields.io/website?label=lucaswebber.net&style=for-the-badge&url=https%3A%2F%2Flucaswebber.net)](https://lucaswebber.net/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/XCraftMan52_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FXCraftMan52&screen_name=XCraftMan52_)
-
-## I'm Student, Developer, and Scouter!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to code, and do other things with Computers
+# Hi 👋, I'm Lucas Webber
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XCraftMan52&label=Views&color=blue&style=plastic" alt="XCraftMan52" /> </p>
 
-## Connect with me:
+## Who Am I?
 
-[<img align="left" alt="lucaswebber.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="XCraftMan52 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="XCraftMan52 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="XCraftMan52 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="justify">
+Lucas Webber (aka XCraftMan52)
+</h3>
 
-<br />
+<h3 align="justiy">
+Hello, 
+</h3>
 
-## Languages and Tools:
+## Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="html5" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="html5" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mySql" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="MongoDB" width="50" height="50"/>
 
+<code> Lets Connect </code>
 
+<section align="center">
+<a href="https://lucaswebber.net/instagram">
+  <img align="left" alt="Lucas's Instagram" width="36px" title="Instagram" src="https://raw.githubusercontent.com/XCraftMan52/XCraftMan52/master/img/instagram.svg" />
+</a>
+<a href="https://discord.gg/57M65PcXHW">
+  <img align="left" alt="Lucas's Discord" width="36px" title="Discord" src="https://raw.githubusercontent.com/XCraftMan52/XCraftMan52/master/img/discord.svg" />
+</a>
+<a href="https://lucaswebber.net/twitter">
+  <img align="left" alt="Lucas's Twitter" title="Twitter" width="36px" src="https://raw.githubusercontent.com/XCraftMan52/XCraftMan52/master/img/twitter.svg" />
+</a>
+<a href="https://www.reddit.com/user/xcraftman52/">
+  <img align="left" alt="Lucas's Reddit" title="Reddit" width="36px" src="https://raw.githubusercontent.com/XCraftMan52/XCraftMan52/master/img/reddit.svg" />
+</a>
+<a href="https://lucaswebber.net/youtube">
+  <img align="left" alt="Lucas's Youtube" title="Youtube" width="36px" src="https://raw.githubusercontent.com/vXCraftMan52/XCraftMan52/master/img/youtube.svg" />
+</a>
+<a href="https://www.pinterest.com/lucaswebber_24/">
+  <img align="left" alt="Lucas's Pinterest" title="Pinterest" width="36px" src="https://raw.githubusercontent.com/XCraftMan52/XCraftMan52/master/img/pinterest.svg" />
+</a>
+<a href="https://lucaswebber.net/facebook">
+  <img align="left" alt="Lucas's Facebook" title="Facebook" width="36px" src="https://raw.githubusercontent.com/XCraftMan52/XCraftMan52/master/img/facebook.svg">
+</a>
+</section>
 
+<br><br>
 
-
-[website]: https://lucaswebber.net
-[twitter]: https://lucaswebber.net/twitter
-[youtube]: https://lucaswebber.net/youtube
-[instagram]: https://lucaswebber.net/instagram
+  <section>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=XCraftMan52&show_icons=true&theme=radical&layout=compact&count_private=true">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCraftMan52&show_icons=true&theme=radical&layout=compact&count_private=true" alt="vishnukumar650's Most Used Languages" >
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=xcraftman52&show_icons=true&theme=radical&layout=compact&count_private=true">
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=xcraftman52&show_icons=true&theme=radical&layout=compact&count_private=true" alt="XCraftMan52's Github Stats" >
+  </a>
+</section>
+<br>
+<hr>
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/XCraftMan52/count.svg" />
+</p>
